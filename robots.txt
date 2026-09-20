@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://monkeytypingtestonline.github.io/sitemap.xml
